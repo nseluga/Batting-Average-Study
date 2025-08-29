@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert/
+*.nbconvert.ipynb
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# macOS junk
+.DS_Store
+
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# Data files (optional — if you pull fresh data each run)
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.parquet
